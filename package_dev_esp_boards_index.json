@@ -13,8 +13,8 @@
           "category": "ESP32",
           "url": "https://github.com/furryman2578/furryman2578-esp32-mega-package/releases/download/2.1.1/dev_esp_boards-2.1.1.zip",
           "archiveFileName": "dev_esp_boards-2.1.1.zip",
-          "checksum": "",
-          "size": "",
+          "checksum": "SHA-256:D7F5A80EB74C28F43527C6522E610649CB787BC615EC5C0062BF14BEB95849A1",
+          "size": "36864",
           "boards": [
             { "name": "Auto-generated ESP32 Family" }
           ],
