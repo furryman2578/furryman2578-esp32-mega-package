@@ -1,0 +1,27 @@
+{
+  "packages": [
+    {
+      "name": "dev_esp_boards",
+      "maintainer": "Custom",
+      "websiteURL": "https://example.com",
+      "email": "none",
+      "platforms": [
+        {
+          "name": "Dev ESP Multi Platform",
+          "architecture": "esp32",
+          "version": "2.1.0",
+          "category": "ESP32",
+          "url": "",
+          "archiveFileName": "dev_esp_boards-2.1.0.zip",
+          "checksum": "",
+          "size": "",
+          "boards": [
+            { "name": "Auto-generated ESP32 Family" }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
