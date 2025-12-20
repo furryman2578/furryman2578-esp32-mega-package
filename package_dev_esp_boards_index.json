@@ -3,16 +3,16 @@
     {
       "name": "dev_esp_boards",
       "maintainer": "Custom",
-      "websiteURL": "https://example.com",
+      "websiteURL": "https://github.com/furryman2578/furryman2578-esp32-mega-package",
       "email": "none",
       "platforms": [
         {
           "name": "Dev ESP Multi Platform",
           "architecture": "esp32",
-          "version": "2.1.0",
+          "version": "2.1.1",
           "category": "ESP32",
-          "url": "",
-          "archiveFileName": "dev_esp_boards-2.1.0.zip",
+          "url": "https://github.com/furryman2578/furryman2578-esp32-mega-package/releases/download/2.1.1/dev_esp_boards-2.1.1.zip",
+          "archiveFileName": "dev_esp_boards-2.1.1.zip",
           "checksum": "",
           "size": "",
           "boards": [
